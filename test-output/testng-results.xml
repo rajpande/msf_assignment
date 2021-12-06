@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="msf_testing" duration-ms="41721" started-at="2021-12-07T03:12:06 IST" finished-at="2021-12-07T03:12:48 IST">
+    <groups>
+    </groups>
+    <test name="login" duration-ms="41721" started-at="2021-12-07T03:12:06 IST" finished-at="2021-12-07T03:12:48 IST">
+      <class name="TestClass">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:TestClass@710726a3]" name="openBrowser" is-config="true" duration-ms="5190" started-at="2021-12-07T03:12:06 IST" finished-at="2021-12-07T03:12:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="writeFeedBack()[pri:0, instance:TestClass@710726a3]" name="writeFeedBack" duration-ms="36485" started-at="2021-12-07T03:12:11 IST" finished-at="2021-12-07T03:12:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeFeedBack -->
+      </class> <!-- TestClass -->
+    </test> <!-- login -->
+  </suite> <!-- msf_testing -->
+</testng-results>
